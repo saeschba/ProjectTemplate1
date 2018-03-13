@@ -43,5 +43,6 @@
 	"results_subsub2_dir": "rules",
 	"results_subsub3_dir": "scripts",
 	"rules_name": "rules1.smk",
-	"env_name": "env1.yaml"
+	"env_name": "env1.yaml",
+	"readme_txt_name": "README",
 }
