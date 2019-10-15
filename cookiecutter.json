@@ -20,7 +20,7 @@
 	"deliv_sub1_dir": "paper_1",
 	"log_sub1_dir": "log_1",
 	"raw_sub1_dir": "fastq",
-	"results_sub1_dir": "180313",
+	"results_sub1_dir": "yymmdd",
 	"src_sub1_dir": "py",
 	"src_sub2_dir": "math",
 	"src_sub3_dir": "R",
