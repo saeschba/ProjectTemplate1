@@ -22,9 +22,9 @@
 	"admin_sub4_dir": "reports",
 	"admin_sub5_dir": "forms",	
 	"admin_sub6_dir": "providers",	
-	"data_sub1_dir": "species_1",
-	"deliv_sub1_dir": "paper_1",
-	"log_sub1_dir": "log_1",
+	"data_sub1_dir": "species-1",
+	"deliv_sub1_dir": "paper-1",
+	"log_sub1_dir": "log-1",
 	"raw_sub1_dir": "fasta",
 	"raw_sub2_dir": "fastq",
 	"results_sub1_dir": "2021-01-23",
@@ -56,7 +56,7 @@
 	"results_subsubsub2_dir": "math",
 	"results_subsubsub3_dir": "R",
 	"results_subsubsub4_dir": "sh",
-	"rules_name": "rules1.smk",
-	"env_name": "env1.yaml",
+	"rules_name": "rules-1.smk",
+	"env_name": "env-1.yaml",
 	"readme_txt_name": "README"
 }
