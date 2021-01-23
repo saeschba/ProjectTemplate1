@@ -1,7 +1,7 @@
 {
 	"full_name": "Simon Aeschbacher",
 	"email": "simon@aeschbacher@uzh.ch",
-	"project_name": "My Project",
+	"project_name": "My Project 1",
 	"project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '-') }}",
 	"root_dir": "{{ cookiecutter.project_slug }}",
 	"gitignore_name": ".gitignore",
